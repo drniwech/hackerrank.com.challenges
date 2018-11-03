@@ -5,7 +5,8 @@ import java.math.*;
 import java.util.regex.*;
 
 /*
-  Heaps: Find the Running Median
+  We're going to make our own Contacts application.
+  https://www.hackerrank.com/challenges/ctci-contacts/problem
 */
 public class Solution {
 
