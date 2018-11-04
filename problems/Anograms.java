@@ -5,7 +5,7 @@ import java.math.*;
 import java.util.regex.*;
 
 /*
-  https://www.hackerrank.com/challenges/ctci-making-anagrams/submissions/code/64663238
+  https://www.hackerrank.com/challenges/ctci-making-anagrams/problem
   Alice decides on an encryption scheme involving two large strings where encryption is dependent on 
   the minimum number of character deletions required to make the two strings anagrams. 
   Can you help her find this number?
